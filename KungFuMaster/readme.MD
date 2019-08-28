@@ -27,10 +27,10 @@ Currently implemented algorithms are
 Here's some pics from rewards and game.
 
 Reward
-![Image](https://pasteboard.co/IuMgtY7.png)
+![Image](https://github.com/ugurkanates/ReinforcementLearning/blob/master/KungFuMaster/kungfuaksam-results.png)
 
 Beating the level
-![Image](https://pasteboard.co/IuMhmil.gif)
+![Image](https://github.com/ugurkanates/ReinforcementLearning/blob/master/KungFuMaster/9e0f86a1-7bd7-4df7-a0a2-cb19089f2c2e.gif)
 
 
 https://cdn-b-east.streamable.com/video/mp4 - Actual video of clearing boss level.
