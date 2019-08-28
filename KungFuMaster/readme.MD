@@ -27,10 +27,10 @@ Currently implemented algorithms are
 Here's some pics from rewards and game.
 
 Reward
-![Reward](https://pasteboard.co/IuMgtY7.png)
+![Image](https://pasteboard.co/IuMgtY7.png)
 
 Beating the level
-![Beat Level](https://pasteboard.co/IuMhmil.gif)
+![Image](https://pasteboard.co/IuMhmil.gif)
 
 
 https://cdn-b-east.streamable.com/video/mp4 - Actual video of clearing boss level.
